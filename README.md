@@ -42,8 +42,7 @@ DynamoDB serves as the database to store structured data for the application. It
 - Defined necessary attributes and indexes.
 - Configured read and write capacity settings.
 
-<img width="1280" alt="Screenshot 2025-02-18 at 23 05 09" src="https://github.com/user-attachments/assets/5f062005-d475-4f46-bb8a-665041033513" />
-
+<img width="1280" alt="Screenshot 2025-02-18 at 23 03 50" src="https://github.com/user-attachments/assets/a12d4c71-e347-4108-9ec2-d1a13baa3a69" />
 
 ---
 
@@ -56,7 +55,7 @@ API Gateway acts as the intermediary that enables communication between the fron
 - Defined request and response mappings.
 - Configured IAM roles to allow secure API-Lambda communication.
 
-<img width="1280" alt="Screenshot 2025-02-18 at 23 03 50" src="https://github.com/user-attachments/assets/a12d4c71-e347-4108-9ec2-d1a13baa3a69" />
+<img width="1280" alt="Screenshot 2025-02-18 at 23 05 09" src="https://github.com/user-attachments/assets/5f062005-d475-4f46-bb8a-665041033513" />
 
 
 ---
